@@ -1,0 +1,5 @@
+{
+  "name": "Industry-Wise Report Generator",
+  "description": "An AI-powered tool that generates real-time industry reports using Gemini with Google Search grounding. Select an industry, specify a time frame, and get up-to-date summaries and sources.",
+  "requestFramePermissions": []
+}
